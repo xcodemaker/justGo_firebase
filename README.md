@@ -29,7 +29,7 @@ Laravel 5.5 , PHP -7.0.33 , MySQL 5.7.19, Composer
 
 1.Clone the repository master branch to the server directory
 ```sh
-$ git clone https://github.com/xcodemaker/justGo_server.git
+$ git clone https://github.com/xcodemaker/justGo_Laravel.git
 ```
 
 2.Execute composer install in the cmd in the directory
@@ -90,7 +90,7 @@ $ npm install
 
 ## Technologies 
 ----
-[![N|Solid](https://www.google.com/images/icons/product/android-64.png)](https://www.android.com/)   
+[![N|Solid](https://www.google.com/images/icons/product/android-64.png)](https://firebase.google.com/)  
 [![N|Solid](https://www.gstatic.com/devrel-devsite/v6bd5a0b4c9254732f5f201c272fcfb160f0efe389bcfbc2a4719d82eac4acb09/firebase/images/lockup.png)](https://firebase.google.com/) 
 
 
@@ -104,7 +104,7 @@ $ npm install
 1.Clone the Project from github 
 
 ```sh
-$ git clone https://github.com/xcodemaker/justGo_android.git
+$ git clone https://github.com/xcodemaker/justGo_Mobile_App.git
 ```
 2.Open the project using Android Studio 
 
